@@ -1,17 +1,49 @@
 .vertical-header {
-
-    border: solid 3px black;
+    position: fixed;
+    border-right: solid 1.5px #8d8d99;
     width: 15rem;
-    min-height: 100vh;
+    height: 100vh;
+    max-height: 100vh;
+    display: grid;
+    grid-template-rows: 1fr 3fr 1fr;
 }
+
 
 ul {
     list-style-type: none;
-    font-size: 1.2rem;
+    font-size: 1.3rem;
 }
 
-.nav-bar {
+.main-nav {
+    padding-right: 15px;
+    padding-left: 15px;
+}
 
-    display: grid;
-    grid-template-rows: 3fr 1fr;
+.fa-solid {
+    margin: .5rem;
+}
+
+.foot-bar {
+    display: flex;
+    align-items: end;
+    padding-left: 15px;
+}
+
+.nav-icon {
+    margin-bottom: 1.5rem;
+}
+
+.logo {
+    padding-left: 40px;
+    padding-left: 15px;
+}
+
+li {
+    border-radius: 10px;
+    transition: background-color 0.1s ease-in-out;
+}
+
+li:hover {
+    border-radius: 10px;
+    background-color: #e0e0e0;
 }

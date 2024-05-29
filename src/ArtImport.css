@@ -1,0 +1,30 @@
+.artimport-container {
+    margin-left: 15rem;
+    display: flex;
+    justify-content: center;
+}
+
+.encart-art {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10rem 0 0 0;
+    width: 55rem;
+    height: 20rem;
+}
+
+.img-art-container {
+    height: 20rem;
+
+}
+
+.img-art {
+    width: 20rem;
+    height: 20rem;
+    object-fit: cover;
+}
+
+.info-art {
+    margin-left: 5rem;
+}

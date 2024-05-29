@@ -12,10 +12,10 @@ export default function Header() {
         <div className='nav-bar'>
              <ul className='main-nav'>
                 <li className='nav-icon'><i className="fa-solid fa-house"></i>Accueil</li>
-                <li className='nav-icon'><i class="fa-solid fa-user"></i>Profil</li>
-                <li className='nav-icon'><i class="fa-solid fa-chart-simple"></i>Statistiques</li>
-                <li className='nav-icon'><i class="fa-solid fa-flag"></i>Objectifs</li>
-                <li className='nav-icon'><i class="fa-solid fa-plus"></i>Ajouter</li>
+                <li className='nav-icon'><i className="fa-solid fa-user"></i>Profil</li>
+                <li className='nav-icon'><i className="fa-solid fa-chart-simple"></i>Statistiques</li>
+                <li className='nav-icon'><i className="fa-solid fa-flag"></i>Objectifs</li>
+                <li className='nav-icon'><i className="fa-solid fa-plus"></i>Ajouter</li>
             </ul>
         </div>
 

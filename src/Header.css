@@ -1,5 +1,6 @@
 .vertical-header {
     position: fixed;
+    top: 0;
     border-right: solid 1.5px #8d8d99;
     width: 15rem;
     height: 100vh;

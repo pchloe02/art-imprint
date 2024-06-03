@@ -1,30 +1,37 @@
 .artimport-container {
-    margin-left: 15rem;
+    /* margin-left: 15rem; */
     display: flex;
     justify-content: center;
 }
 
 .encart-art {
+    z-index: 100;
     display: grid;
     grid-template-columns: 1fr 2fr;
-    border: 1px solid black;
-    border-radius: 5px;
+    border: 1.5px solid black;
+    border-radius: 15px;
     margin: 10rem 0 0 0;
     width: 55rem;
-    height: 20rem;
+    height: 25rem;
+    overflow: hidden;
 }
 
 .img-art-container {
-    height: 20rem;
-
+    max-width: 20rem;
+    overflow: hidden;
 }
 
 .img-art {
+    height: 30rem;
     width: 20rem;
-    height: 20rem;
     object-fit: cover;
 }
 
 .info-art {
     margin-left: 5rem;
+    margin-right: 5rem;
+}
+
+.text-art {
+    text-align: justify;
 }

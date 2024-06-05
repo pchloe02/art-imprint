@@ -8,8 +8,12 @@ export default function LastAdded() {
     // enlever le dernier élement, puis prendre le nvl array et l'inverser ? 
     //puis le restreindre à n'afficher que les 3 premiers élements ?
 
-    const lastUpdatesElementArr = MockArt.slice(1, 4).reverse()
-    console.log(lastUpdatesElementArr)
+    const arraySize = MockArt.length - 1
+    const lastUpdatesElementArr = MockArt.slice(-4, arraySize).reverse()
+
+    // console.log(MockArt)
+    // console.log(lastUpdatesElementArr)
+
     return (
         <>
             <div className='lastadded'>
@@ -24,8 +28,8 @@ export default function LastAdded() {
                     {lastUpdatesElementArr.map((el) => (
                         <div className='gallery-element'>
                             <img className='img-gallery' src={el.image} alt={el.title} />
-                            <p>{el.created_at}</p>
                             <p>{el.title}</p>
+                            <p>{el.created_at}</p>
                         </div>
                     ))}
                 </div>

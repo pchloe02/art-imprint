@@ -4,7 +4,9 @@ import MockArt from '../MockArt.json'
 
 export default function ArtImport() {
     // ici je veux isolé la dernière img importer de l'array d'obj
+
     const lastElementArray = MockArt[MockArt.length - 1]
+
     return (
         <div className='artimport-container'>
             <div className='encart-art'>

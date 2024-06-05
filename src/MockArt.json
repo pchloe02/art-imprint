@@ -3,7 +3,7 @@
         "id": 1,
         "image": "link",
         "title": "dessin 1",
-        "details": "Ceci est un dessin",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec consectetur leo. Phasellus odio velit, dignissim at porttitor vitae, accumsan sed ante. Nullam non dolor id sem hendrerit tincidunt at eu augue. Nam eu auctor est. Fusce metus leo, posuere eu aliquam eget, euismod ac massa. Ut eget commodo lorem, a condimentum est.",
         "category": "sketch",
         "created_at": "03-06-2024, 14:04:38"
     },
@@ -11,7 +11,7 @@
         "id": 2,
         "image": "link",
         "title": "dessin 2",
-        "details": "Ceci est un dessin",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec consectetur leo. Phasellus odio velit, dignissim at porttitor vitae, accumsan sed ante. Nullam non dolor id sem hendrerit tincidunt at eu augue. Nam eu auctor est. Fusce metus leo, posuere eu aliquam eget, euismod ac massa. Ut eget commodo lorem, a condimentum est.",
         "category": "sketch",
         "created_at": "04-06-2024, 18:25:29"
     },
@@ -19,7 +19,7 @@
         "id": 3,
         "image": "link",
         "title": "dessin 3",
-        "details": "Ceci est un dessin",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec consectetur leo. Phasellus odio velit, dignissim at porttitor vitae, accumsan sed ante. Nullam non dolor id sem hendrerit tincidunt at eu augue. Nam eu auctor est. Fusce metus leo, posuere eu aliquam eget, euismod ac massa. Ut eget commodo lorem, a condimentum est.",
         "category": "sketch",
         "created_at": "04-06-2024, 18:45:29"
     },
@@ -27,7 +27,7 @@
         "id": 4,
         "image": "link",
         "title": "dessin 4",
-        "details": "Ceci est un dessin",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec consectetur leo. Phasellus odio velit, dignissim at porttitor vitae, accumsan sed ante. Nullam non dolor id sem hendrerit tincidunt at eu augue. Nam eu auctor est. Fusce metus leo, posuere eu aliquam eget, euismod ac massa. Ut eget commodo lorem, a condimentum est.",
         "category": "sketch",
         "created_at": "05-06-2024, 10:20:58"
     },
@@ -35,16 +35,40 @@
         "id": 5,
         "image": "link",
         "title": "dessin 5",
-        "details": "Ceci est un dessin 5",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec consectetur leo. Phasellus odio velit, dignissim at porttitor vitae, accumsan sed ante. Nullam non dolor id sem hendrerit tincidunt at eu augue. Nam eu auctor est. Fusce metus leo, posuere eu aliquam eget, euismod ac massa. Ut eget commodo lorem, a condimentum est.",
         "category": "sketch",
         "created_at": "05-06-2024, 14:01:20"
     },
     {
         "id": 6,
-        "image": "/img/knight-duty.png",
+        "image": "link",
         "title": "dessin 6",
-        "details": "Ceci est un dessin 6",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec consectetur leo. Phasellus odio velit, dignissim at porttitor vitae, accumsan sed ante. Nullam non dolor id sem hendrerit tincidunt at eu augue. Nam eu auctor est. Fusce metus leo, posuere eu aliquam eget, euismod ac massa. Ut eget commodo lorem, a condimentum est.",
         "category": "sketch",
         "created_at": "06-06-2024, 09:01:20"
+    },
+    {
+        "id": 7,
+        "image": "link",
+        "title": "dessin 7",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec consectetur leo. Phasellus odio velit, dignissim at porttitor vitae, accumsan sed ante. Nullam non dolor id sem hendrerit tincidunt at eu augue. Nam eu auctor est. Fusce metus leo, posuere eu aliquam eget, euismod ac massa. Ut eget commodo lorem, a condimentum est.",
+        "category": "sketch",
+        "created_at": "07-06-2024, 15:45:40"
+    },
+    {
+        "id": 8,
+        "image": "link",
+        "title": "dessin 8",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec consectetur leo. Phasellus odio velit, dignissim at porttitor vitae, accumsan sed ante. Nullam non dolor id sem hendrerit tincidunt at eu augue. Nam eu auctor est. Fusce metus leo, posuere eu aliquam eget, euismod ac massa. Ut eget commodo lorem, a condimentum est.",
+        "category": "sketch",
+        "created_at": "07-06-2024, 18:05:20"
+    },
+    {
+        "id": 9,
+        "image": "/img/knight-duty.png",
+        "title": "dessin 9",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec consectetur leo. Phasellus odio velit, dignissim at porttitor vitae, accumsan sed ante. Nullam non dolor id sem hendrerit tincidunt at eu augue. Nam eu auctor est. Fusce metus leo, posuere eu aliquam eget, euismod ac massa. Ut eget commodo lorem, a condimentum est.",
+        "category": "sketch",
+        "created_at": "08-06-2024, 07:21:12"
     }
 ]

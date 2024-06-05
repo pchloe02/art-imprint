@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "image": "link",
+        "title": "dessin 1",
+        "details": "Ceci est un dessin",
+        "category": "sketch",
+        "created_at": "03-06-2024, 14:04:38"
+    },
+    {
+        "id": 2,
+        "image": "link",
+        "title": "dessin 2",
+        "details": "Ceci est un dessin",
+        "category": "sketch",
+        "created_at": "04-06-2024, 18:25:29"
+    },
+    {
+        "id": 3,
+        "image": "link",
+        "title": "dessin 3",
+        "details": "Ceci est un dessin",
+        "category": "sketch",
+        "created_at": "04-06-2024, 18:45:29"
+    },
+    {
+        "id": 4,
+        "image": "link",
+        "title": "dessin 4",
+        "details": "Ceci est un dessin",
+        "category": "sketch",
+        "created_at": "05-06-2024, 10:20:58"
+    },
+    {
+        "id": 5,
+        "image": "link",
+        "title": "dessin 5",
+        "details": "Ceci est un dessin 5",
+        "category": "sketch",
+        "created_at": "05-06-2024, 14:01:20"
+    },
+    {
+        "id": 6,
+        "image": "/img/knight-duty.png",
+        "title": "dessin 6",
+        "details": "Ceci est un dessin 6",
+        "category": "sketch",
+        "created_at": "06-06-2024, 09:01:20"
+    }
+]

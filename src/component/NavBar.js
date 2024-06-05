@@ -1,5 +1,5 @@
 import React from 'react'
-import '../NavBar.css'
+import './NavBar.css'
 import "https://kit.fontawesome.com/6a21cd18bd.js";
 import { Link } from "react-router-dom";
 

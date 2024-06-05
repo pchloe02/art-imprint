@@ -2,6 +2,7 @@
     position: fixed;
     top: 0;
     border-right: solid 1.5px #8d8d99;
+    background-color: white;
     width: 15rem;
     height: 100vh;
     max-height: 100vh;
@@ -47,4 +48,9 @@ li {
 li:hover {
     border-radius: 10px;
     background-color: #e0e0e0;
+}
+
+a {
+    color: black;
+    text-decoration: none;
 }

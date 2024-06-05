@@ -1,7 +1,7 @@
 import './App.css';
 import NavBar from './component/NavBar';
 
-import { Routes, Route, Link, Navigate} from "react-router-dom";
+import { Routes, Route, Navigate} from "react-router-dom";
 import Profile from './pages/Profile';
 import Stat from './pages/Stat';
 import AddArt from './pages/AddArt';

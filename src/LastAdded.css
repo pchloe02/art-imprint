@@ -10,14 +10,16 @@
 }
 
 .seemore-btn {
-    width: 5rem;
+    width: 10rem;
     height: 2rem;
+    align-self: center;
     justify-self: center;
-    border-radius: 5px;
+    border-radius: 25px;
     border: none;
     background-color: #6626B8;
     color: white;
     font-weight: 600;
+    padding-top: 1rem;
 }
 
 .gallery-container {

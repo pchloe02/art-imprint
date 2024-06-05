@@ -1,5 +1,6 @@
 import React from 'react'
 import '../LastAdded.css'
+import { Link } from 'react-router-dom'
 
 export default function LastAdded() {
     return (
@@ -7,7 +8,9 @@ export default function LastAdded() {
             <div className='lastadded'>
                 <div className='title-lastadded'>
                     <h2>Derniers ajouts</h2>
-                    <button className='seemore-btn'>Voir plus</button>
+                    <Link to="/profile/" className='seemore-btn'>
+                        Voir plus
+                    </Link>
                 </div>
                 <div className='gallery-container'>
                     <div className='gallery-element'>
